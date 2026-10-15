@@ -1,0 +1,1057 @@
+{
+  "sourcePages": 148,
+  "recognizedPages": 148,
+  "pendingCount": 1,
+  "missingAnswerCount": 5,
+  "reviewedCount": 299,
+  "updatedAt": "2026-10-15",
+  "verifiedAnswerCount": 294,
+  "classificationPendingCount": 0,
+  "admittedClassificationPendingCount": 0,
+  "unpublishedStemPendingCount": 1,
+  "totalClassificationOrStemPendingCount": 1,
+  "answerStatusCounts": {
+    "verified": 294,
+    "partial": 4,
+    "missing": 1
+  },
+  "bankVersion": "3.0.0-final.1",
+  "baselineCount": 87,
+  "addedStems": 212,
+  "candidateCount": 300,
+  "candidateCategories": {
+    "已核验可发布": 277,
+    "OCR已修复并核验": 19,
+    "需要人工复核": 1,
+    "跨页或错配已修复": 2,
+    "真题可确认但参考答案缺失": 1
+  },
+  "excludedCandidateCount": 0,
+  "duplicateCandidateCount": 0,
+  "nonQuestionSourceFragments": [
+    {
+      "year": 2019,
+      "subject": "刑法学",
+      "page": 43,
+      "reason": "案例区仅列答题要点，无案例材料与设问，不产生题目ID"
+    },
+    {
+      "year": 2019,
+      "subject": "民法学",
+      "page": 60,
+      "reason": "案例区仅列合同成立时间，无案例材料与设问，不产生题目ID"
+    }
+  ],
+  "byYear": {
+    "2025": 27,
+    "2024": 27,
+    "2023": 27,
+    "2022": 27,
+    "2021": 27,
+    "2020": 27,
+    "2019": 24,
+    "2018": 26,
+    "2017": 29,
+    "2016": 29,
+    "2015": 29
+  },
+  "bySubject": {
+    "法理学": 55,
+    "宪法学": 56,
+    "中国法制史": 52,
+    "刑法学": 67,
+    "民法学": 69
+  },
+  "byType": {
+    "名词解释": 66,
+    "简答题": 159,
+    "论述题": 54,
+    "案例分析题": 20
+  },
+  "sourceSha256": "528af050231466c5b03a1dec70602ce017b47c710166b331c2da29350bd4e8c6",
+  "limitations": [
+    "不报告未经专家审核的准确率",
+    "2019汇编仅显示14道基础题，不能据此证明原考试完整",
+    "同题干关联不代表两个年份原卷完全相同",
+    "知识点为编辑索引，非命题机构官方分类"
+  ],
+  "yearSubjectType": [
+    {
+      "year": 2015,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2015,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 5
+    },
+    {
+      "year": 2015,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 3
+    },
+    {
+      "year": 2015,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 3
+    },
+    {
+      "year": 2015,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 5
+    },
+    {
+      "year": 2015,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2015,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 1
+    },
+    {
+      "year": 2015,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2016,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2016,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 5
+    },
+    {
+      "year": 2016,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2016,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 5
+    },
+    {
+      "year": 2016,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 3
+    },
+    {
+      "year": 2016,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2016,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 5
+    },
+    {
+      "year": 2017,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 5
+    },
+    {
+      "year": 2017,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2018,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2018,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2018,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2018,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 3
+    },
+    {
+      "year": 2018,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2018,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2018,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2018,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2018,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2018,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 5
+    },
+    {
+      "year": 2018,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2018,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2018,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2018,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2019,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2019,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 1
+    },
+    {
+      "year": 2019,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2019,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2019,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2019,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2019,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2019,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2019,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2019,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2019,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2019,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2019,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2020,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2020,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2021,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2021,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2021,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2021,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2021,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2021,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2021,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2021,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2022,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2022,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2022,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2022,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2022,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2022,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2022,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2022,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2022,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2022,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2022,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2022,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2022,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2022,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2022,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2023,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2023,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2023,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2023,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2023,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2023,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2023,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2023,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2023,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2023,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2023,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2023,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2023,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2023,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2023,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2024,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2024,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2024,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2024,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2024,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2024,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2024,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2024,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "subject": "中国法制史",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "subject": "中国法制史",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "subject": "中国法制史",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "subject": "刑法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "subject": "刑法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2025,
+      "subject": "刑法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "subject": "宪法学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "subject": "宪法学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "subject": "宪法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "subject": "民法学",
+      "type": "案例分析题",
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "subject": "民法学",
+      "type": "简答题",
+      "count": 4
+    },
+    {
+      "year": 2025,
+      "subject": "民法学",
+      "type": "论述题",
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "subject": "法理学",
+      "type": "名词解释",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "subject": "法理学",
+      "type": "简答题",
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "subject": "法理学",
+      "type": "论述题",
+      "count": 1
+    }
+  ],
+  "sourceConfirmableQuestionCount": 300,
+  "taxonomyVersion": 3,
+  "knowledgeReviewedCount": 299,
+  "primaryFrequencyOnlyDefault": true,
+  "releaseName": "知律 V3.0 Final"
+}

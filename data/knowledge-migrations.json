@@ -1,0 +1,243 @@
+{
+  "version": 3,
+  "questionIds": {},
+  "knowledgeIds": {
+    "kp-78ca62fbf994": [
+      "kp-78ca62fbf994"
+    ],
+    "kp-3fc702e79c62": [
+      "kp-3fc702e79c62"
+    ],
+    "kp-3a39eaf468d4": [
+      "kp-3a39eaf468d4"
+    ],
+    "kp-48533ade6e58": [
+      "kp-48533ade6e58"
+    ],
+    "kp-8a77491b305a": [
+      "kp-8a77491b305a"
+    ],
+    "kp-931b2d2a1d4f": [
+      "kp-931b2d2a1d4f"
+    ],
+    "kp-dbc4f76f394e": [
+      "kp-dbc4f76f394e"
+    ],
+    "kp-c6eee282f85d": [
+      "kp-c6eee282f85d"
+    ],
+    "kp-ce2b4d80f53a": [
+      "kp-ce2b4d80f53a"
+    ],
+    "kp-49afa2735160": [
+      "kp-49afa2735160"
+    ],
+    "kp-c510bc035f84": [
+      "kp-c510bc035f84"
+    ],
+    "kp-1f6f9ec9d731": [
+      "kp-1f6f9ec9d731"
+    ],
+    "kp-0e2affc62f18": [
+      "kp-0e2affc62f18"
+    ],
+    "kp-32890efaec51": [
+      "kp-32890efaec51"
+    ],
+    "kp-0a4625559f35": [
+      "kp-0a4625559f35"
+    ],
+    "kp-3ed28afb1c1c": [
+      "kp-3ed28afb1c1c"
+    ],
+    "kp-c609edf29691": [
+      "kp-c609edf29691"
+    ],
+    "kp-71a5d0342c13": [
+      "kp-71a5d0342c13"
+    ],
+    "kp-a38a3577e36a": [
+      "kp-a38a3577e36a"
+    ],
+    "kp-30091a073757": [
+      "kp-30091a073757"
+    ],
+    "kp-333485ede637": [
+      "kp-333485ede637"
+    ],
+    "kp-acf3427a5212": [
+      "kp-acf3427a5212"
+    ],
+    "kp-ef703f8a13fe": [
+      "kp-ef703f8a13fe"
+    ],
+    "kp-c40f1e3744a5": [
+      "kp-c40f1e3744a5"
+    ],
+    "kp-ba7b3d23f08a": [
+      "kp-ba7b3d23f08a"
+    ],
+    "kp-a0ac8a9eb6b7": [
+      "kp-a0ac8a9eb6b7"
+    ],
+    "kp-082c395eba08": [
+      "kp-082c395eba08"
+    ],
+    "kp-2e01c3fc4842": [
+      "kp-2e01c3fc4842"
+    ],
+    "kp-74e9e99a00b9": [
+      "kp-74e9e99a00b9"
+    ],
+    "kp-2379f91024c7": [
+      "kp-2379f91024c7"
+    ],
+    "kp-b14e0098dd5e": [
+      "kp-b14e0098dd5e"
+    ],
+    "kp-755dc40f4471": [
+      "kp-755dc40f4471"
+    ],
+    "kp-f3654d4c7150": [
+      "kp-f3654d4c7150"
+    ],
+    "kp-b22537fa0ae5": [
+      "kp-b22537fa0ae5"
+    ],
+    "kp-bf3e0514bca8": [
+      "kp-bf3e0514bca8"
+    ],
+    "kp-ba09170299f0": [
+      "kp-ba09170299f0"
+    ],
+    "kp-81232e30b05e": [
+      "kp-81232e30b05e"
+    ],
+    "kp-75e1225b90c1": [
+      "kp-75e1225b90c1"
+    ],
+    "kp-bd9dcbf9b078": [
+      "kp-bd9dcbf9b078"
+    ],
+    "kp-351938bacb06": [
+      "kp-351938bacb06"
+    ],
+    "kp-a71888d13865": [
+      "kp-a71888d13865"
+    ],
+    "kp-2da64eff84b6": [
+      "kp-2da64eff84b6"
+    ],
+    "kp-4ad7befb81b4": [
+      "kp-4ad7befb81b4"
+    ],
+    "kp-5067c4d1a337": [
+      "kp-5067c4d1a337"
+    ],
+    "kp-aa6ca7aa365a": [
+      "kp-aa6ca7aa365a"
+    ],
+    "kp-6824cdb00ed6": [
+      "kp-6824cdb00ed6"
+    ],
+    "kp-ea0805193480": [
+      "kp-ea0805193480"
+    ],
+    "kp-328d1b276124": [
+      "kp-328d1b276124"
+    ],
+    "kp-ad3ac29b8fc0": [
+      "kp-ad3ac29b8fc0"
+    ],
+    "kp-0d3fcb10cc93": [
+      "kp-0d3fcb10cc93"
+    ],
+    "kp-8579b0e51b73": [
+      "kp-8579b0e51b73"
+    ],
+    "kp-0e8a2441acd9": [
+      "kp-0e8a2441acd9"
+    ],
+    "kp-b42f3b7c3da8": [
+      "kp-b42f3b7c3da8"
+    ],
+    "kp-8e57f021c058": [
+      "kp-8e57f021c058"
+    ],
+    "kp-120c09453ccc": [
+      "kp-120c09453ccc"
+    ],
+    "kp-473b9612acda": [
+      "kp-473b9612acda"
+    ],
+    "kp-81a664f3e519": [
+      "kp-81a664f3e519"
+    ],
+    "kp-f26542ae790f": [
+      "kp-f26542ae790f"
+    ],
+    "kp-14e386858c9d": [
+      "kp-14e386858c9d"
+    ],
+    "kp-56746aa1c370": [
+      "kp-56746aa1c370"
+    ],
+    "kp-2d9a266b38b8": [
+      "kp-2d9a266b38b8"
+    ],
+    "kp-473617f9ca2c": [
+      "kp-473617f9ca2c"
+    ],
+    "kp-aa06cd4712b0": [
+      "kp-aa06cd4712b0"
+    ],
+    "kp-97c249d651f2": [
+      "kp-97c249d651f2"
+    ],
+    "kp-34e5530aab26": [
+      "kp-34e5530aab26"
+    ],
+    "kp-445619a008f5": [
+      "kp-445619a008f5"
+    ],
+    "kp-2e11ed3fa38a": [
+      "kp-2e11ed3fa38a"
+    ],
+    "kp-c6a6ea6c8239": [
+      "kp-c6a6ea6c8239"
+    ],
+    "kp-c325e0510085": [
+      "kp-c325e0510085"
+    ],
+    "kp-67807010a59a": [
+      "kp-67807010a59a"
+    ],
+    "kp-ad1edfb6e6c2": [
+      "kp-ad1edfb6e6c2"
+    ],
+    "kp-40411292736b": [
+      "kp-40411292736b"
+    ],
+    "kp-ed32e84fe4b9": [
+      "kp-ed32e84fe4b9"
+    ],
+    "kp-64aba723f921": [
+      "kp-64aba723f921"
+    ]
+  },
+  "policy": "保留所有旧键与未知键；一对多不推断已掌握，只将弱项保守带入新增目标。",
+  "splitKnowledgeIds": {
+    "concept-civil-personality": [
+      "concept-civil-personality",
+      "concept-civil-personality-property"
+    ],
+    "concept-criminal-driving": [
+      "concept-criminal-driving",
+      "concept-criminal-traffic-offence"
+    ],
+    "concept-civil-fault": [
+      "concept-civil-fault",
+      "concept-civil-fair-loss"
+    ]
+  }
+}
